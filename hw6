@@ -1,7 +1,7 @@
 print('========================================================================================')
 print('========================================================================================')
 # to call python hw6.py diabetes.data -H
-# <github path> 
+# <github path - COPY PATH still not working for me ?? > 
 print('> start of program hw6.py')
 print('> ONLY USED DIABETES.DATA')
 print('> import libraries')
